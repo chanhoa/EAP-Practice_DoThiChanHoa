@@ -27,7 +27,7 @@ namespace ManageEmployees.Migrations
                 columns: new[] { "ID", "Department", "Image", "Name", "Phone" },
                 values: new object[,]
                 {
-                    { 1, "Phòng Kế toán", "Do-thi-chan-hoa.jpg", "Đổ Thị Chan Hòa", "012369856" },
+                    { 1, "Phòng Kế toán", "Do-thi-chan-hoa.jpg", "Đỗ Thị Chan Hòa", "012369856" },
                     { 2, "Phòng bảo vệ", "Tuan.jpg", "Phạm Tuân", "012369856" },
                     { 3, "Phòng bảo vệ", "Vu-quang-huy.jpg", "Vũ Quang Huy", "012369856" },
                     { 4, "Phòng công nghệ thông tin", "Hieu-icetea.jpg", "Nguyễn Đình Hiếu", "012369856" },

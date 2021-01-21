@@ -15,7 +15,7 @@ namespace ManageEmployees.Models.Configuration
                 new Employees()
                 {
                     ID = 1,
-                    Name = "Đổ Thị Chan Hòa",
+                    Name = "Đỗ Thị Chan Hòa",
                     Department = "Phòng Kế toán",
                     Phone = "012369856",
                     Image= "Do-thi-chan-hoa.jpg"
