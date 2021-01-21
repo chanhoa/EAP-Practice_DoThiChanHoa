@@ -1,0 +1,158 @@
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\ManageEmployees.exe
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\ManageEmployees.deps.json
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\ManageEmployees.runtimeconfig.json
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\ManageEmployees.runtimeconfig.dev.json
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\ManageEmployees.dll
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\ManageEmployees.pdb
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\ManageEmployees.Views.dll
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\ManageEmployees.Views.pdb
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\obj\Debug\netcoreapp3.1\ManageEmployees.csprojAssemblyReference.cache
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\obj\Debug\netcoreapp3.1\ManageEmployees.AssemblyInfoInputs.cache
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\obj\Debug\netcoreapp3.1\ManageEmployees.AssemblyInfo.cs
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\obj\Debug\netcoreapp3.1\ManageEmployees.csproj.CoreCompileInputs.cache
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\obj\Debug\netcoreapp3.1\ManageEmployees.MvcApplicationPartsAssemblyInfo.cache
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\obj\Debug\netcoreapp3.1\ManageEmployees.RazorAssemblyInfo.cache
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\obj\Debug\netcoreapp3.1\ManageEmployees.RazorAssemblyInfo.cs
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\obj\Debug\netcoreapp3.1\staticwebassets\ManageEmployees.StaticWebAssets.Manifest.cache
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\obj\Debug\netcoreapp3.1\staticwebassets\ManageEmployees.StaticWebAssets.xml
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\obj\Debug\netcoreapp3.1\scopedcss\bundle\ManageEmployees.styles.css
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\obj\Debug\netcoreapp3.1\ManageEmployees.TagHelpers.input.cache
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\obj\Debug\netcoreapp3.1\ManageEmployees.TagHelpers.output.cache
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\obj\Debug\netcoreapp3.1\ManageEmployees.RazorCoreGenerate.cache
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\obj\Debug\netcoreapp3.1\ManageEmployees.RazorTargetAssemblyInfo.cache
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\obj\Debug\netcoreapp3.1\ManageEmployees.RazorTargetAssemblyInfo.cs
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\obj\Debug\netcoreapp3.1\ManageEmployees.Views.pdb
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\obj\Debug\netcoreapp3.1\ManageEmployees.csproj.CopyComplete
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\obj\Debug\netcoreapp3.1\ManageEmployees.dll
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\obj\Debug\netcoreapp3.1\ManageEmployees.pdb
+D:\Profile\CSharp\CShaprt\Practice_TruongThanhTu_T1909M\ManageEmployees\ManageEmployees\obj\Debug\netcoreapp3.1\ManageEmployees.genruntimeconfig.cache
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\ManageEmployees.exe
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\ManageEmployees.deps.json
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\ManageEmployees.runtimeconfig.json
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\ManageEmployees.runtimeconfig.dev.json
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\ManageEmployees.dll
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\ManageEmployees.pdb
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\ManageEmployees.Views.dll
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\ManageEmployees.Views.pdb
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\obj\Debug\netcoreapp3.1\ManageEmployees.csprojAssemblyReference.cache
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\obj\Debug\netcoreapp3.1\ManageEmployees.AssemblyInfoInputs.cache
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\obj\Debug\netcoreapp3.1\ManageEmployees.AssemblyInfo.cs
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\obj\Debug\netcoreapp3.1\ManageEmployees.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\obj\Debug\netcoreapp3.1\ManageEmployees.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\obj\Debug\netcoreapp3.1\ManageEmployees.RazorAssemblyInfo.cache
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\obj\Debug\netcoreapp3.1\ManageEmployees.RazorAssemblyInfo.cs
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\obj\Debug\netcoreapp3.1\staticwebassets\ManageEmployees.StaticWebAssets.Manifest.cache
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\obj\Debug\netcoreapp3.1\staticwebassets\ManageEmployees.StaticWebAssets.xml
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\obj\Debug\netcoreapp3.1\scopedcss\bundle\ManageEmployees.styles.css
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\obj\Debug\netcoreapp3.1\ManageEmployees.TagHelpers.input.cache
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\obj\Debug\netcoreapp3.1\ManageEmployees.TagHelpers.output.cache
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\obj\Debug\netcoreapp3.1\ManageEmployees.RazorCoreGenerate.cache
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\obj\Debug\netcoreapp3.1\ManageEmployees.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\obj\Debug\netcoreapp3.1\ManageEmployees.RazorTargetAssemblyInfo.cs
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\obj\Debug\netcoreapp3.1\ManageEmployees.Views.pdb
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\obj\Debug\netcoreapp3.1\ManageEmployees.csproj.CopyComplete
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\obj\Debug\netcoreapp3.1\ManageEmployees.dll
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\obj\Debug\netcoreapp3.1\ManageEmployees.pdb
+C:\Users\Admin\source\Core\New folder\ManageEmployees\ManageEmployees\obj\Debug\netcoreapp3.1\ManageEmployees.genruntimeconfig.cache
